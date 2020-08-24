@@ -31,8 +31,11 @@ The plots have several interactive features, some additional to the dynamic plot
 
 ### Tutorial: methods, code, & additional analysis
 
-Click here to view a short tutorial that provides more information about how we compiled the data from the book, the code used to create the plots, and some additional analyses using the network data.
+<a href="abramson-network-tutorial.html" title="Trump network">Click here </a> to view a short tutorial that provides more information about:
++ How we compiled the data from the book
++ The code used to create the plots
++ Additional analyses using the network data
 
-### Download our replication files
+### Download our data & replication files
 
 A .zip file of our data and replication code can be found at the link to the GitHub repository on the left of the screen. 
