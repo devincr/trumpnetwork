@@ -23,11 +23,11 @@ The plots have several interactive features, some additional to the dynamic plot
 + Selecting a node from the dropdown menu (alphabetized) will highlight that node and its closest connections
 + Nodes can be moved around for better visualization
 
-<a href="trump-russia-static.html" title="Trump network">Click to view the full static network </a>\\
-<a href="stat-plot-1990.html" title="Trump network">Click to view the 1990 static network </a>\\
-<a href="stat-plot-2000.html" title="Trump network">Click to view the 2000 static network </a>\\
-<a href="stat-plot-2005.html" title="Trump network">Click to view the 2005 static network </a>\\
-<a href="stat-plot-2010.html" title="Trump network">Click to view the 2010 static network </a>\\
+<a href="trump-russia-static.html" title="Trump network">Click to view the full static network </a><br/>
+<a href="stat-plot-1990.html" title="Trump network">Click to view the 1990 static network </a><br/>
+<a href="stat-plot-2000.html" title="Trump network">Click to view the 2000 static network </a><br/>
+<a href="stat-plot-2005.html" title="Trump network">Click to view the 2005 static network </a><br/>
+<a href="stat-plot-2010.html" title="Trump network">Click to view the 2010 static network </a><br/>
 
 ### Tutorial: methods, code, & additional analysis
 
