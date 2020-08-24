@@ -1,6 +1,8 @@
 ## Plotting Abramson's (2018) Trump-Russia Network
 
-We are a group of political science PhD students at the University of North Carolina - Chapel Hill who set out to plot the network of relationships described in attorney and professor Seth Abramson's 2018 book *Proof of Collusion* by hand coding over 300 "nodes" (actors and organizations) and approximately 700 connections between them. Our aim was to see if constructing such a plot could be a useful tool to visualize the book's narrative and its over 300-person cast of characters. In so doing we hoped to also provide a useful tool to visualize and understand the political events and relationships leading up to and culiminating in the 2016 election. This website provides the results of this effort, i.e. the interactive dynamic and static network plots, and the data and code required to replicate the plots (links below). 
+We are a group of political science PhD students at the University of North Carolina - Chapel Hill who set out to plot the network of relationships described in attorney and professor Seth Abramson's 2018 book *Proof of Collusion* by hand coding over 300 "nodes" (actors and organizations) and approximately 700 connections between them. Our aim was to see if constructing such a plot could be a useful tool to visualize the book's narrative and its over 300-person cast of characters. In so doing we hoped to also provide a useful tool to visualize and understand the political events and relationships leading up to and culiminating in the 2016 election. Our efforts build on a growing body of literature in political science utilizing network analysis to examine the role of social/political relationships, interdependency, and structural power in political outcomes.
+
+This website provides the results of this effort, i.e. the interactive dynamic and static network plots, and the data and code required to replicate the plots (links below). 
 
 **Why *Proof of Collusion*?**
 
