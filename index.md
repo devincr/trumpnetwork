@@ -35,9 +35,9 @@ The plots have several interactive features, some additional to the dynamic plot
 <a href="stat-plot-2005.html" title="Trump network">Click to view the 2005 static network </a><br/>
 <a href="stat-plot-2010.html" title="Trump network">Click to view the 2010 static network </a><br/>
 
-### Tutorial: methods, code, & additional analysis
+### Replication guide: methods, code, & additional analysis
 
-<a href="abramson-network-tutorial.html" title="Trump network">Click here </a> to view a short tutorial that provides more information about:
+<a href="abramson-replication-guide.html" title="Trump network">Click here </a> to view a short replication guide that provides more information about:
 + How we compiled the data from the book
 + The code used to create the plots
 + Additional analyses using the network data
