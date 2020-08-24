@@ -44,4 +44,4 @@ The plots have several interactive features, some additional to the dynamic plot
 
 ### Download our data & replication files
 
-A .zip file of our data and replication code can be found at the link to the GitHub repository on the left of the screen. 
+A .zip file of our data and replication code can be found by clicking "View the Project on Github" to the left. 
