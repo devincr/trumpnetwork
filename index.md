@@ -4,7 +4,7 @@ We are a group of political science PhD students at the University of North Caro
 
 ### Dynamic network plot (1973-2019)
 
-<a href="dynamic-network-test.html" title="Trump network">Dynamic network (1973-2019) </a>
+<a href="trump-russia-dynamic.html" title="Trump network">Dynamic network (1973-2019) </a>
 
 
 ### Static network plots
