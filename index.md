@@ -2,7 +2,11 @@
 
 We are a group of political science PhD students at the University of North Carolina - Chapel Hill who set out to plot the network of relationships described in attorney and professor Seth Abramson's 2018 book *Proof of Collusion* by hand coding over 300 "nodes" (actors and organizations) and approximately 700 connections between them. Our aim was to see if constructing such a plot could be a useful tool to visualize the book's narrative and its over 300-person cast of characters. In so doing we hoped to also provide a useful tool to visualize and understand the political events and relationships leading up to and culiminating in the 2016 election. Our efforts build on a growing body of literature in political science utilizing network analysis to examine the role of social/political relationships, interdependency, and structural power in political outcomes.
 
-This website provides the results of this effort, i.e. the interactive dynamic and static network plots, and the data and code required to replicate the plots (links below). 
+This website provides the results of this effort, i.e. the interactive 
+<a href="html/trump-russia-dynamic.html" title="Trump network">dynamic</a> and <a href="html/trump-russia-static.html" title="Trump network">static</a> network plots, and the data and code required to replicate the plots.
+
+If you use the data or analysis in your work, please cite as: 
+* Case-Ruchala, D. (2020). *Trump-Russia Network Data & Analysis*. Retrieved from <https://devincr.github.io/trumpnetwork>.
 
 **Why *Proof of Collusion*?**
 
@@ -17,7 +21,7 @@ The plot has several interactive features:
 + Clicking a link between nodes lets you view text from the book about the relationship (with years of interaction and page numbers included).
 + Double clicking a node will keep the node highlighted and label as the plot plays
 
-<a href="trump-russia-dynamic.html" title="Trump network">Click to view the dynamic network </a>
+<a href="html/trump-russia-dynamic.html" title="Trump network">Click to view the dynamic network </a>
 
 ### Static network plots
 
@@ -29,19 +33,20 @@ The plots have several interactive features, some additional to the dynamic plot
 + Selecting a node from the dropdown menu (alphabetized) will highlight that node and its closest connections
 + Nodes can be moved around for better visualization
 
-<a href="trump-russia-static.html" title="Trump network">Click to view the full static network </a><br/>
-<a href="stat-plot-1990.html" title="Trump network">Click to view the 1990 static network </a><br/>
-<a href="stat-plot-2000.html" title="Trump network">Click to view the 2000 static network </a><br/>
-<a href="stat-plot-2005.html" title="Trump network">Click to view the 2005 static network </a><br/>
-<a href="stat-plot-2010.html" title="Trump network">Click to view the 2010 static network </a><br/>
+<a href="html/stat-plot-1990.html" title="Trump network">Click to view the 1990 static network </a><br/>
+<a href="html/stat-plot-2000.html" title="Trump network">Click to view the 2000 static network </a><br/>
+<a href="html/stat-plot-2005.html" title="Trump network">Click to view the 2005 static network </a><br/>
+<a href="html/stat-plot-2010.html" title="Trump network">Click to view the 2010 static network </a><br/>
+<a href="html/trump-russia-static.html" title="Trump network">Click to view the 2019 (full) static network </a><br/>
 
 ### Replication guide: methods, code, & additional analysis
 
-<a href="abramson-replication-guide.html" title="Trump network">Click here </a> to view a short replication guide that provides more information about:
+<a href="html/abramson-replication-guide.html" title="Trump network">Click here </a> to view a short **replication guide** that provides more information about:
 + How we compiled the data from the book
 + The code used to create the plots
-+ Additional analyses using the network data
+
+<a href="html/abramson-network-analysis.html" title="Trump network">Click here </a> to view a short document providing **additional analysis** using network statistics to analyze the network. Code is provided to supplement the above guide.
 
 ### Download our data & replication files
 
-A .zip file of our data and replication code can be found by clicking "View the Project on Github" to the left. 
+A .zip file of our data and replication code can be found by clicking "View the Project on Github" to the left and downloading "replication.zip". 
